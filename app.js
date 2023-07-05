@@ -5,4 +5,7 @@ const closeCartBtn = document.querySelector('.close-cart')
 const clearCartBtn = document.querySelector('.clear-cart')
 const cartDom = document.querySelector('.cart')
 const cartOverlay = document.querySelector('.cart-overlay')
-console.log(cartDom);
+const cartItems = document.querySelector('.cart-items')
+const cartTotal = document.querySelector('.cart-total')
+const cartContent = document.querySelector('.cart-content')
+const productsDom = document.querySelector('.products-center')
